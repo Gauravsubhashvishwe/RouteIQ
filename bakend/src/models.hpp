@@ -27,7 +27,7 @@ struct Place{
     std::string name;
     std::string state;
     double lat{};
-    double lng();
+    double lng{};
     std::string category{"attraction"};
     double rating{4.0};
     double cost{};
