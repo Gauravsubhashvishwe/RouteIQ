@@ -1,0 +1,15 @@
+# ninja log v7
+29	1096	8059073996288296	CMakeFiles/travel_core.dir/src/dijkstra.cpp.obj	81dac5c46ddc73ff
+61	1134	8059073996602432	CMakeFiles/algorithm_tests.dir/tests/algorithm_tests.cpp.obj	ff1665c8cdb30ddf
+51	1241	8059073996482832	CMakeFiles/travel_core.dir/src/itinerary.cpp.obj	1234923cb5880c84
+46	1279	8059073996442681	CMakeFiles/travel_core.dir/src/group_trip.cpp.obj	ca94a1d791e7f1c3
+34	1298	8059073996332827	CMakeFiles/travel_core.dir/src/optimizer.cpp.obj	8881898b9f8db6f4
+39	1356	8059073996381874	CMakeFiles/travel_core.dir/src/topk.cpp.obj	5a03fbfab03f7ff9
+26	1572	8059073996248320	CMakeFiles/travel_core.dir/src/graph.cpp.obj	1d9340336b6f48e9
+21	1769	8059073996198311	CMakeFiles/travel_core.dir/src/algorithms.cpp.obj	fdb348a4452f1cae
+56	2827	8059073996542219	CMakeFiles/travel_core.dir/src/data_loader.cpp.obj	9630adeb0d6db015
+2828	3014	8059074024242929	libtravel_core.a	b04e583b889f9b3b
+3014	3217	8059074026115896	algorithm_tests.exe	349aba565227b4be
+39	506	8059076190799799	CMakeFiles/travel_core.dir/src/dijkstra.cpp.obj	81dac5c46ddc73ff
+506	680	8059076195469062	libtravel_core.a	b04e583b889f9b3b
+680	871	8059076197203453	algorithm_tests.exe	349aba565227b4be

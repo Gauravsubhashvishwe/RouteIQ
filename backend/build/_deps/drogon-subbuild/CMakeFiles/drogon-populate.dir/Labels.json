@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/CMakeFiles/drogon-populate"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/CMakeFiles/drogon-populate.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/CMakeFiles/drogon-populate-complete.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-build.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-configure.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-download.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-install.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-patch.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-test.rule"
+		},
+		{
+			"file" : "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-subbuild/drogon-populate-prefix/src/drogon-populate-stamp/drogon-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"drogon-populate"
+		],
+		"name" : "drogon-populate"
+	}
+}

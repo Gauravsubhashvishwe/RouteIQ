@@ -1,0 +1,19 @@
+Start testing: Jul 16 17:51 India Standard Time
+----------------------------------------------------------
+1/1 Testing: algorithm_tests
+1/1 Test: algorithm_tests
+Command: "D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/algorithm_tests.exe"
+Directory: D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build
+"algorithm_tests" start time: Jul 16 17:51 India Standard Time
+Output:
+----------------------------------------------------------
+All algorithm tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"algorithm_tests" end time: Jul 16 17:51 India Standard Time
+"algorithm_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 16 17:51 India Standard Time

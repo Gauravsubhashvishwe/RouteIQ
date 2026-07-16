@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/cmake_install.cmake",
+		"D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-build/cmake_install.cmake",
+		"D:/CODDING/Project/Trip_Route_Planner/Trip_Route_Planner/backend/build/_deps/drogon-build/trantor/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
