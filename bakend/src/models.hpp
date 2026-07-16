@@ -76,7 +76,7 @@ struct GroupTripResult{
 
 struct ItineraryDay{
     int day{};
-    std::vector<int> plaves;
+    std::vector<int> places;
     double usedHours{};
     double travelHours{};
 };
