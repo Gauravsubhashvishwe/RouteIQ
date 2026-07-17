@@ -125,3 +125,8 @@
 63588	64882	8059736641546187	_deps/drogon-build/libdrogon.a	a787a6acdf6cc686
 62695	71933	8059736632642320	CMakeFiles/travel_server.dir/src/main.cpp.obj	8f48fd7b424729ad
 71934	74381	8059736725028096	travel_server.exe	afaab49abbceff3f
+26	636	8059767147261658	CMakeFiles/travel_core.dir/src/optimizer.cpp.obj	8881898b9f8db6f4
+21	1105	8059767147224436	CMakeFiles/travel_core.dir/src/algorithms.cpp.obj	fdb348a4452f1cae
+1105	1974	8059767158051755	libtravel_core.a	b04e583b889f9b3b
+1982	2306	8059767166739084	algorithm_tests.exe	349aba565227b4be
+1974	5620	8059767166739084	travel_server.exe	afaab49abbceff3f
