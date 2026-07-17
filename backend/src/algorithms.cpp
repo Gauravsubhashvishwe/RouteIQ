@@ -142,7 +142,7 @@ PathResult ShortestPathService::aStar(int source, int target) const{
 PathResult ShortestPathService::bellmanFord(int source, int target) const{
     const auto started = Clock::now();
     const int n = graph_.size();
-    std::vector<int> dist(n, kInf);
+    std::vector<double> dist(n, kInf);
     std::vector<int> parent(n, -1);
     long long states = 0;
 

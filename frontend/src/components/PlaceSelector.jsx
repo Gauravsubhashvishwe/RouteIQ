@@ -1,4 +1,4 @@
-#import React from 'react';
+import React from 'react';
 
 export default function PlaceSelector({ places, start, setStart, candidates, setCandidates }) {
   const toggle = (id) => {

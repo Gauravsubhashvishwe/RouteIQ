@@ -75,7 +75,7 @@ RouteResult optimizeExact(const Graph& graph, const OptimizeRequest& req){
                 const double nextCost = dp[mask][i] + graph.travelCost(nodes[i], nodes[j]) + graph.places()[nodes[j]].cost;
 
                 if(nextCost < dp[nextMask][j]){
-                    dp[nextMask][j] == nextCost;
+                    dp[nextMask][j] = nextCost;
                     parent[nextMask][j] = i;
                 }
             }
